@@ -15,7 +15,7 @@
 
 ### 🌐 Web Development
 <p>
-  <img src="icons/html.svg" width="40"/>
+  <img src="icons/Apollo.svg" width="40"/>
   <img src="icons/css.svg" width="40"/>
   <img src="icons/javascript.svg" width="40"/>
   <img src="icons/php.svg" width="40"/>
