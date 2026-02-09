@@ -23,7 +23,7 @@
 
 ### 📱 Mobile & Programming
 <p>
-  <img src="icons/flutter.svg" width="40"/>
+  <img src="Flutter-Dark.svg" width="40"/>
   <img src="icons/c.svg" width="40"/>
   <img src="icons/cpp.svg" width="40"/>
 </p>
