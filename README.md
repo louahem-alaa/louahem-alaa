@@ -34,14 +34,14 @@
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="icons/MySQL.svg" width="40" height="40"/>
+  <img src="icons/MySQL-Dark.svg" width="40" height="40"/>
 </p>
 
 ### ⚙️ Tools
 <p align="left">
   <img src="icons/Git.svg" width="40" height="40"/>
-  <img src="icons/GitHub.svg" width="40" height="40"/>
-  <img src="icons/VSCode.svg" width="40" height="40"/>
+  <img src="icons/Github-Dark.svg" width="40" height="40"/>
+  <img src="icons/VSCode-Dark.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -55,10 +55,10 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="icons/GitHub.svg" width="40"/>
+  <a href="https://github.com/louahem-alaa">
+    <img src="icons/Github-Dark.svg" width="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/louahem-alaa">
     <img src="icons/LinkedIn.svg" width="40"/>
   </a>
 </p>
