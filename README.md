@@ -18,18 +18,18 @@
 <p align="left">
   <img src="icons/Photoshop.svg" width="40" height="40"/>
   <img src="icons/Illustrator.svg" width="40" height="40"/>
-  <img src="icons/Figma.svg" width="40" height="40"/>
+  <img src="icons/Figma-Dark.svg" width="40" height="40"/>
 </p>
 
 ### 💻 Programming
 <p align="left">
   <img src="icons/C.svg" width="40" height="40"/>
-  <img src="icons/C++.svg" width="40" height="40"/>
-  <img src="icons/Flutter.svg" width="40" height="40"/>
+  <img src="icons/CPP.svg" width="40" height="40"/>
+  <img src="icons/Flutter-Dark.svg" width="40" height="40"/>
   <img src="icons/HTML.svg" width="40" height="40"/>
   <img src="icons/CSS.svg" width="40" height="40"/>
   <img src="icons/JavaScript.svg" width="40" height="40"/>
-  <img src="icons/PHP.svg" width="40" height="40"/>
+  <img src="icons/PHP-Dark.svg" width="40" height="40"/>
 </p>
 
 ### 🗄️ Databases
