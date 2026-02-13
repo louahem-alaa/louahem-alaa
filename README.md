@@ -1,52 +1,68 @@
-# <img src="https://raw.githubusercontent.com/Takul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshakes/Handshake.png" width="35" /> Hi, I'm Alaa Eddine Louahem
-
-### 🎓 Computer Science Student (LMD) | 🎨 Graphic Designer | 💻 Developer | 🌐 Networking Enthusiast
-
----
-
-## 🧠 About Me
-I am a motivated Computer Science student with a strong passion for **design, programming, and computer networks**. I enjoy building projects that combine creativity with technical logic, from mobile apps to network infrastructure.
+<h1 align="center">👋 Hi, I'm Jemim Jintan</h1>
+<h3 align="center">Computer Science Student | Graphic Designer | Developer</h3>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🎨 Graphic Design
-<img src="icons/Photoshop.svg" width="40" alt="PS"/> <img src="icons/Photoshop.svg" width="40" alt="AI"/> 
-*UI/UX and Visual Identity Design.*
-
-### 💻 Development
-<img src="https://cdn.simpleicons.org/flutter/02569B" width="40" alt="Flutter"/> <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" alt="C"/> <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" alt="C++"/> <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"/> <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" alt="CSS3"/> <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" alt="MySQL"/>
-
-### 🌐 Networking & Security
-<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40" alt="Cisco"/> <img src="https://cdn.simpleicons.org/wireshark/167EBA" width="40" alt="Wireshark"/>
-*TCP/IP, Routing, Switching, and Network Analysis.*
+## 👨‍💻 About Me
+- 🎓 Computer Science (Informatique – LMD)
+- 🎨 Graphic Designer (Photoshop & Illustrator)
+- 💻 Developer (Flutter, C, C++, Web)
+- 🌐 Interested in Networking & Cyber Security
+- 🚀 Always learning new technologies
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Skills & Tools
 
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **CCNA Labs** | Practical networking labs using Cisco Packet Tracer | [🔗 View Project](https://github.com/louahem-alaa/labs-ccna) |
-| **Grading System** | C++ system for managing student records and grades | [🔗 View Project](https://github.com/louahem-alaa/UniversityGradingSystem) |
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louahem-alaa&show_icons=true&theme=dark&hide_border=true" alt="Alaa's Stats" />
-</p>
-
----
-
-## 📫 Connect with me
+### 🎨 Design
 <p align="left">
-<a href="https://github.com/louahem-alaa">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="35" />
-</a>
-&nbsp;
-<a href="mailto:your-email@example.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" />
-</a>
+  <img src="icons/Photoshop.svg" width="40" height="40"/>
+  <img src="icons/Illustrator.svg" width="40" height="40"/>
+  <img src="icons/Figma.svg" width="40" height="40"/>
 </p>
+
+### 💻 Programming
+<p align="left">
+  <img src="icons/C.svg" width="40" height="40"/>
+  <img src="icons/C++.svg" width="40" height="40"/>
+  <img src="icons/Flutter.svg" width="40" height="40"/>
+  <img src="icons/HTML.svg" width="40" height="40"/>
+  <img src="icons/CSS.svg" width="40" height="40"/>
+  <img src="icons/JavaScript.svg" width="40" height="40"/>
+  <img src="icons/PHP.svg" width="40" height="40"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="icons/MySQL.svg" width="40" height="40"/>
+</p>
+
+### ⚙️ Tools
+<p align="left">
+  <img src="icons/Git.svg" width="40" height="40"/>
+  <img src="icons/GitHub.svg" width="40" height="40"/>
+  <img src="icons/VSCode.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="icons/GitHub.svg" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+    <img src="icons/LinkedIn.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+⭐ *Feel free to check my repositories and projects!*
