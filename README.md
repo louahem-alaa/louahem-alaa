@@ -36,7 +36,8 @@
 <p align="left">
   <img src="icons/MySQL-Dark.svg" width="40" height="40"/>
 </p>
-     🌐 Networking
+     
+### 🌐 Networking
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wireshark.webp" width="40"/>
   <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" width="40"/>
