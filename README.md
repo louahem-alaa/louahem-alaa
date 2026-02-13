@@ -12,7 +12,7 @@ I am a motivated Computer Science student with a strong passion for **design, pr
 ## 🛠️ Tech Stack
 
 ### 🎨 Graphic Design
-<img src="https://cdn.simpleicons.org/adobephotoshop/001E36" width="40" alt="PS"/> <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="40" alt="AI"/> 
+<img src="icons/Photoshop.svg" width="40" alt="PS"/> <img src="icons/Photoshop.svg" width="40" alt="AI"/> 
 *UI/UX and Visual Identity Design.*
 
 ### 💻 Development
