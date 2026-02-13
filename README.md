@@ -36,6 +36,18 @@
 <p align="left">
   <img src="icons/MySQL-Dark.svg" width="40" height="40"/>
 </p>
+### 🌐 Networking
+<p align="left">
+  <img src="icons/Wireshark.svg" width="40"/>
+  <img src="icons/PacketTracer.svg" width="40"/>
+</p>
+
+### 🖥️ Operating Systems
+<p align="left">
+  <img src="icons/Windows.svg" width="40"/>
+  <img src="icons/Linux.svg" width="40"/>
+</p>
+
 
 ### ⚙️ Tools
 <p align="left">
