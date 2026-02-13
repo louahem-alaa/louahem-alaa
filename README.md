@@ -38,7 +38,7 @@
 </p>
 ### 🌐 Networking
 <p align="left">
-  <img src="icons/Wireshark.svg" width="40"/>
+  <img src="[icons/Wireshark.svg](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wireshark.webp)" width="40"/>
   <img src="icons/PacketTracer.svg" width="40"/>
 </p>
 
