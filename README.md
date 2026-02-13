@@ -44,8 +44,8 @@
 
 ### 🖥️ Operating Systems
 <p align="left">
-  <img src="icons/Windows.svg" width="40"/>
-  <img src="icons/Linux.svg" width="40"/>
+  <img src="icons/Windows-Dark.svg" width="40"/>
+  <img src="icons/Linux-Dark.svg" width="40"/>
 </p>
 
 
