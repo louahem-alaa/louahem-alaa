@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Jemim Jintan</h1>
+<h1 align="center">👋 Hi, I'm louahem alaa</h1>
 <h3 align="center">Computer Science Student | Graphic Designer | Developer</h3>
 
 ---
