@@ -28,7 +28,6 @@
   <img src="icons/Flutter-Dark.svg" width="40" height="40"/>
   <img src="icons/HTML.svg" width="40" height="40"/>
   <img src="icons/CSS.svg" width="40" height="40"/>
-  <img src="icons/JavaScript.svg" width="40" height="40"/>
   <img src="icons/PHP-Dark.svg" width="40" height="40"/>
 </p>
 
