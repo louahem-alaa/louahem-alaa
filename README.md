@@ -26,6 +26,7 @@
   <img src="icons/C.svg" width="40" height="40"/>
   <img src="icons/CPP.svg" width="40" height="40"/>
   <img src="icons/Flutter-Dark.svg" width="40" height="40"/>
+  <img src="icons/Dart-Dark.svg" width="40" height="40"/>
   <img src="icons/HTML.svg" width="40" height="40"/>
   <img src="icons/CSS.svg" width="40" height="40"/>
   <img src="icons/PHP-Dark.svg" width="40" height="40"/>
@@ -54,6 +55,7 @@
   <img src="icons/Git.svg" width="40" height="40"/>
   <img src="icons/Github-Dark.svg" width="40" height="40"/>
   <img src="icons/VSCode-Dark.svg" width="40" height="40"/>
+  <img src="icons/AndroidStudio-Dark.svg" width="40" height="40"/>
 </p>
 
 ---
