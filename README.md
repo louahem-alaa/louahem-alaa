@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=louahem-alaa&show_icons=true&theme=dark" />
+<img src="https://wakatime.com/@alaa" />
 
 
 </p>
