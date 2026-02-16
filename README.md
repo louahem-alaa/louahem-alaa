@@ -62,7 +62,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://wakatime.com/@alaa" />
+<a href="https://wakatime.com/@alaa" />
+  </a>
 
 
 </p>
